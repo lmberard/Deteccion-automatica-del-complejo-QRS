@@ -1,5 +1,5 @@
 # Deteccion automatica del complejo QRS
-Analisis de una señal de Electrocardiograma (ECG) de unregistro de larga duración, utilizando el software Matlab. El objetivo es mejorar la señal aplicandole filtros digitales para luego poder detectar los eventos básicos de la misma de una manera más precisa, en especial de las ondas QRS
+Analisis de una señal de Electrocardiograma (ECG) de unregistro de larga duración. El objetivo es mejorar la señal aplicandole filtros digitales para luego poder detectar los eventos básicos de la misma de una manera más precisa, en especial de las ondas QRS
 
 ![image](https://user-images.githubusercontent.com/50753891/106315127-8c3ee980-6249-11eb-93ac-78901fa33286.png)
 
